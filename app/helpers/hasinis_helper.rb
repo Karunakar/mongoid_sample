@@ -1,0 +1,2 @@
+module HasinisHelper
+end
